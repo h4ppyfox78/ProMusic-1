@@ -1,0 +1,7 @@
+{
+    "prefix": "#",
+    "prefixalt": "?",
+    "token": (os.getenv("TOKEN")),
+    "clientID": "975808455552167966",
+    "guildID": "1069352980492595200"
+}
